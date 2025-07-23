@@ -1,6 +1,16 @@
 {
   "name": "Rampana",
   "symbol": "RAMP",
-  "description": "Rampana is a community-driven meme token built on Solana. Inspired by Dogecoin, 96% of the supply is public and 4% is held by the creator.",
-  "image": "https://raw.githubusercontent.com/Upandaway9/token-list/main/assets/mainnet/WYaHVN8Tq6j1eLusoKE8xzuqyb1gD5GMAuq3brqc5yt.png"
+  "description": "A fun community meme coin — no promises, no roadmap, no team.",
+  "image": "https://raw.githubusercontent.com/Upandaway9/token-list/main/assets/mainnet/WYaHVN8Tq6j1eLusoKE8xzuqyb1gD5GMAuq3brqc5yt.png",
+  "external_url": "https://rampana.com",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "WYaHVN8Tq6j1eLusoKE8xzuqyb1gD5GMAuq3brqc5yt.png",
+        "type": "image/png"
+      }
+    ]
+  }
 }
